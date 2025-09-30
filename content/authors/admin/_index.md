@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Lakshitha De Silva
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Lakshitha
+last_name: De Silva
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: ✈️
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,62 +23,51 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Lecturer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Department of Mechanical Engineering, University of Moratuwa, Sri Lanka
+    url: https://uom.lk/mech
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: 'lakshithads@uom.lk'
+    label: Institutional E-mail
+  - icon: at-symbol
+    url: 'lakshitha.official@gmail.com'
+    label: Personal E-mail
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/lakshitha-de-silva-b1b97a114/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=ijXwAToAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0002-5192-3617
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Experimental Fluid Dynamics
+  - Computational Fluid Dynamics
+  - Aerodynamics
+  - Renewable Energy
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: Master of Philosophy
+    institution: University of Moratuwa, Sri Lanka
+    date_start: 2019-09-09
+    date_end: 2024-10-31
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+      Thesis title ”Investigation of the Aerodynamics of Bioinspired Flapping Wings”. Experimental and computational investigation of pitching and plunging wings inspired by kinematics of birds to improve future Flapping Wing Bioinspired Aerial Vehicles (FWBAVs) performance.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com/thesis.pdf'
+  - area: Bachelor of Science (Engineering)
+    institution: University of Moratuwa, Sri Lanka
+    date_start: 2014-10-27
+    date_end: 2018-12-31
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      Honors degree with second-upper class
 
 work:
   - position: Senior AI Research Scientist
