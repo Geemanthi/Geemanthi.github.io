@@ -34,10 +34,10 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'lakshithads@uom.lk'
+    url: 'mailto:lakshithads@uom.lk'
     label: Institutional E-mail
   - icon: at-symbol
-    url: 'lakshitha.official@gmail.com'
+    url: 'mailto:lakshitha.official@gmail.com'
     label: Personal E-mail
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/lakshitha-de-silva-b1b97a114/
