@@ -126,35 +126,35 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: Sinhala
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+# awards:
+#   - title: Best Paper Award
+#     url: https://neurips.cc/
+#     date: '2022-12-01'
+#     awarder: NeurIPS
+#     icon: hero/trophy
+#     summary: |
+#       Awarded for groundbreaking work on efficient training of large models.
+#   - title: AI Innovation Grant
+#     url: https://www.nsf.gov/
+#     date: '2021-06-15'
+#     awarder: National Science Foundation
+#     icon: hero/currency-dollar
+#     summary: |
+#       $500,000 grant for research in ethical AI development.
+#   - title: Outstanding PhD Thesis
+#     url: https://www.stanford.edu/
+#     date: '2019-06-30'
+#     awarder: Stanford University
+#     icon: hero/academic-cap
+#     summary: |
+#       Recognized for contributions to scaling laws in deep learning.
 ---
 
 Lakshitha De Silva is a Lecturer in the Department of Mechanical Engineering at the University of Moratuwa, Sri Lanka. His expertise is in fluid dynamics, with strong experience in both computational and experimental methods. He teaches across Aeronautical Engineering and Mechanical Engineering Design, and takes great satisfaction in mentoring students on curricular and extracurricular projects. In addition to his academic role, he is an entrepreneur and consultant mechanical engineer, having worked with both Sri Lankan and international clients on research and development projects that deliver innovative solutions to fluid dynamics and broader engineering challenges. His long-term vision is to strengthen collaboration between academia and industry to develop sustainable, practical solutions that address the future challenges of humankind.
