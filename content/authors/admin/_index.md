@@ -45,7 +45,7 @@ profiles:
     url: https://scholar.google.com/citations?user=ijXwAToAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0009-0002-5192-3617
-  - icon: "custom/researchgate"
+  - icon: custom/researchgate
     url: https://www.researchgate.net/profile/Lakshitha-De-Silva-2?ev=hdr_xprf
 
 interests:
