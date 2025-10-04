@@ -9,7 +9,7 @@ design:
   spacing: '5rem'
 
 sections:
-  - block: resume-biography-3
+  - block: resume-biography
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -20,7 +20,7 @@ sections:
         url: uploads/resume.pdf
       headings:
         about: ''
-        education: false
+        # education: ''
         interests: ''
     design:
       # Apply a gradient background
