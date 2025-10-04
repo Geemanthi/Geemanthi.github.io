@@ -127,11 +127,11 @@ work:
 skills:
   - name: Simulation Software
     items:
-      - name: ANSYS # Design Modeler/ SpaceClaim
+      - name: ANSYS Design Modeler/ SpaceClaim
         description: ''
         percent: 95
         icon: devicon/ansys
-      - name: Ansys Fluent #/ CFX/ Structural
+      - name: Ansys Fluent/ CFX/ Structural
         description: ''
         percent: 100
         icon: devicon/ansys
@@ -154,7 +154,7 @@ skills:
       - name: AutoCAD
         description: ''
         percent: 95
-        icon: hero/chart-bar
+        icon: custom/autocad
       - name:  SolidEdge
         description: ''
         percent: 85
