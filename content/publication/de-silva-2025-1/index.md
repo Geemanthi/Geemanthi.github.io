@@ -22,11 +22,11 @@ image:
   preview_only: false
 
 projects: []
-
+---
 > [!NOTE]
 > Click the *Cite* button above to import publication metadata.
 
 > [!NOTE]
 > Click the *URL* button above to direct to the original publication site.
 
----
+
