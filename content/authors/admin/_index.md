@@ -111,18 +111,18 @@ work:
 skills:
   - name: Simulation Software
     items:
-      - name: ANSYS Design Modeler/ SpaceClaim
+      - name: ANSYS # Design Modeler/ SpaceClaim
         description: ''
         percent: 95
         icon: devicon/ansys
-      - name: Ansys Fluent/ CFX/ Structural
+      - name: Ansys Fluent #/ CFX/ Structural
         description: ''
         percent: 100
         icon: devicon/ansys
       - name: OpenFOAM
         description: ''
         percent: 85
-        icon: cloud
+        icon: hero/chart-bar
       - name: NI-LabVIEW
         description: ''
         percent: 95
@@ -130,19 +130,19 @@ skills:
       - name: SIMULIA Abaqus
         description: ''
         percent: 100
-        icon: devicon/labview
+        icon: hero/chart-bar
       - name: Solidworks
         description: ''
         percent: 85
-        icon: cloud
+        icon: hero/chart-bar
       - name: AutoCAD
         description: ''
         percent: 95
-        icon: cloud
+        icon: hero/chart-bar
       - name:  SolidEdge
         description: ''
         percent: 85
-        icon: cloud
+        icon: hero/chart-bar
   - name: Programming Languages
     color: '#eeac02'
     color_border: '#f0bf23'
