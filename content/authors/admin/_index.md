@@ -154,7 +154,7 @@ skills:
       - name: AutoCAD
         description: ''
         percent: 95
-        icon: custom/autocad
+        icon: "custom/autocad"
       - name:  SolidEdge
         description: ''
         percent: 85
