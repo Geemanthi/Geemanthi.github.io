@@ -114,11 +114,11 @@ skills:
       - name: ANSYS Design Modeler/ SpaceClaim
         description: ''
         percent: 95
-        icon: code-bracket
+        icon: devicon/ansys
       - name: Ansys Fluent/ CFX/ Structural
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: devicon/ansys
       - name: OpenFOAM
         description: ''
         percent: 85
@@ -138,7 +138,7 @@ skills:
       - name: AutoCAD
         description: ''
         percent: 95
-        icon: 
+        icon: cloud
       - name:  SolidEdge
         description: ''
         percent: 85
@@ -154,11 +154,11 @@ skills:
       - name: C++
         description: ''
         percent: 100
-        icon: code-bracket
+        icon: devicon/c
       - name: MATLAB
         description: ''
         percent: 85
-        icon: code-bracket
+        icon: devicon/matlab
 
 languages:
   - name: English
