@@ -104,6 +104,22 @@ work:
     date_end: 2022-12-31
     summary: |
        Visiting Instructor and trainer for ANSYS software suite
+  - position: Co-founder and Lead Engineer - ThermoFluids
+    company_name: Dynamics LK (Pvt) Ltd, Colombo, Sri Lanka
+    # company_url: 'https://orel.com/'
+    company_logo: ''
+    date_start: 2020-01-01
+    date_end: 2024-12-31
+    summary: |
+       Research and development of mechanical engineering solutaions for local and international clients.
+  - position: Trainee Engineer
+    company_name: Southern Spars International (Pvt) Ltd, Biyagama, Sri Lanka
+    # company_url: 'https://orel.com/'
+    company_logo: ''
+    date_start: 2018-07-01
+    date_end: 2019-01-31
+    summary: |
+       Design and development of carbon fiber composite components.
 
 
 # Skills
