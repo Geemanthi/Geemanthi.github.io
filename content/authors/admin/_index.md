@@ -72,22 +72,39 @@ education:
       Honors degree with second-upper class
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Lecturer
+    company_name: University of Moratuwa, Sri Lanka
+    company_url: 'https://uom.lk/'
     company_logo: ''
-    date_start: 2020-01-01
+    date_start: 2024-06-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Lecturing on Aircraft systems and maintenance, Aircraft avionics and human factors, Aerodynamics. Project Supervision of Glider and UAV design project (2nd and 3rd year students), Aircraft design project (3rd year students), Final year projects (4th year students)
+  - position: Visiting Lecturer
+    company_name: Faculty of Engineering, University of Sri Jayawardhanapura, Sri Lanka
+    company_url: 'https://eng.sjp.ac.lk/mechanicaleng/'
     company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2022-10-01
+    date_end: 2022-12-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+       Solid Mechanics and Finite Element Method (FEM)
+  - position: Lecturer
+    company_name: IMC-AIC Campus, Colombo, Sri Lanka
+    company_url: 'https://www.aicedu.lk/'
+    company_logo: ''
+    date_start: 2021-01-01
+    date_end: 2022-12-31
+    summary: |
+       Part-time permanent lecturer in mechanical engineering
+  - position: Visiting Lecturer
+    company_name: OREL Corporations (PVT) LTD, Colombo, Sri Lanka
+    company_url: 'https://orel.com/'
+    company_logo: ''
+    date_start: 2020-01-01
+    date_end: 2022-12-31
+    summary: |
+       Visiting Instructor and trainer for ANSYS software suite
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
