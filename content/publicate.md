@@ -1,3 +1,4 @@
+cms_exclude: true
 ---
 title: 'Publications'
 date: 2023-10-24
@@ -16,7 +17,7 @@ sections:
       text: ''
       filters:
         folders:
-          - publications
+          - publication
         exclude_featured: false
     design:
       view: citation
