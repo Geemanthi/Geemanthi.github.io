@@ -109,36 +109,56 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Simulation Software
     items:
-      - name: Python & PyTorch
+      - name: ANSYS Design Modeler/ SpaceClaim
         description: ''
         percent: 95
         icon: code-bracket
-      - name: Machine Learning
+      - name: Ansys Fluent/ CFX/ Structural
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: OpenFOAM
         description: ''
         percent: 85
         icon: cloud
-  - name: Hobbies
+      - name: NI-LabVIEW
+        description: ''
+        percent: 95
+        icon: code-bracket
+      - name: SIMULIA Abaqus
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: Solidworks
+        description: ''
+        percent: 85
+        icon: cloud
+      - name: AutoCAD
+        description: ''
+        percent: 95
+        icon: 
+      - name:  SolidEdge
+        description: ''
+        percent: 85
+        icon: cloud
+  - name: Programming Languages
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Python
         description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+        percent: 95
+        icon: devicon/python
+      - name: C++
         description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
+        percent: 100
+        icon: code-bracket
+      - name: MATLAB
         description: ''
-        percent: 70
-        icon: book-open
+        percent: 85
+        icon: code-bracket
 
 languages:
   - name: English

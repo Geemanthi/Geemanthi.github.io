@@ -34,8 +34,9 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
+    highlight_active_link: true
     logo:
-      text: 'Your Name'
+      text: 'Lakshitha De Silva'
 
 # Site footer
 footer:
