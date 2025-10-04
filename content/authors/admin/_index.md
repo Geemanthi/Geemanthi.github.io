@@ -126,11 +126,11 @@ skills:
       - name: NI-LabVIEW
         description: ''
         percent: 95
-        icon: code-bracket
+        icon: devicon/labview
       - name: SIMULIA Abaqus
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: devicon/labview
       - name: Solidworks
         description: ''
         percent: 85
