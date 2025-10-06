@@ -43,7 +43,7 @@ sections:
     design:
       columns: "1"
       background:
-        color: "white"
+        text_color_light: true
   - block: collection
     content:
       title: Featured Publications
