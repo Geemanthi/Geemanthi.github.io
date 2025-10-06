@@ -25,7 +25,7 @@ sections:
      text: ''
      filters:
        folders:
-         - publication
+         - publication/dabare-2024
        exclude_featured: false
     design:
      view: citation
