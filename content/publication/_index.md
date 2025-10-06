@@ -13,10 +13,10 @@
 title: 'Publications'
 date: 2024-05-19
 type: landing
-
+cms_exclude: true
 design:
   # Section spacing
-  spacing: '10rem'
+  spacing: '5rem'
 
 sections:
   - block: collection
