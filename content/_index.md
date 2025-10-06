@@ -30,9 +30,9 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
       background:
-        color: 'navy'
-        # gradient_start: "#4f46e5"
-        # gradient_end: "#7c3aed"
+        # color: 'navy'
+        gradient_start: "#0c5a5aff"
+        gradient_end: "#2c90beff"
         text_color_light: true
       spacing:
         padding: ["6", "6", "6", "6"]
