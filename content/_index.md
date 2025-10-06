@@ -48,7 +48,7 @@ sections:
         # color: 'navy'
         # gradient_start: "#0c5a5aff"
         # gradient_end: "#2c90beff"
-        # text_color_light: true
+        text_color_light: true
       spacing:
         padding: ["6", "6", "6", "6"]
       columns: "1"
