@@ -18,10 +18,10 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
-      headings:
-        about: ''
+      # headings:
+        # about: ''
         # education: ''
-        interests: ''
+        # interests: ''
     design:
       # Apply a gradient background
       css_class: hbx-bg-gradient
@@ -29,6 +29,14 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+      background:
+        color: ""
+        gradient_start: "#4f46e5"
+        gradient_end: "#7c3aed"
+        text_color_light: true
+      spacing:
+        padding: ["6", "6", "6", "6"]
+      columns: "1"
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
