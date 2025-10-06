@@ -25,7 +25,7 @@ sections:
      text: ''
      filters:
        folders:
-         - publication/dabare-2024
+         - publication
        exclude_featured: false
      count: 30
     design:
