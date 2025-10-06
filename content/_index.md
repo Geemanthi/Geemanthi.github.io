@@ -24,15 +24,15 @@ sections:
         # interests: ''
     design:
       # Apply a gradient background
-      css_class: hbx-bg-gradient
+      # css_class: hbx-bg-gradient
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
       background:
-        color: ""
-        gradient_start: "#4f46e5"
-        gradient_end: "#7c3aed"
+        color: 'navy'
+        # gradient_start: "#4f46e5"
+        # gradient_end: "#7c3aed"
         text_color_light: true
       spacing:
         padding: ["6", "6", "6", "6"]
