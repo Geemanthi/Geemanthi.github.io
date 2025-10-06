@@ -30,6 +30,20 @@ sections:
      count: 30
     design:
      view: citation
+  - block: markdown
+    content:
+      title: In Development
+      text: |
+        
+        - A Framework for Computational Fluid Dynamics Investigations of Moving Objects using Ansys Fluent.
+        - Review of Flapping Wing Bioinspired Aerial Vehicles: From Theories to Applications.
+        - Design and Development of a Vehicle-Mounted Test Apparatus for Investigating the Aerodynamic Performance of UAV Components.
+
+      
+    design:
+      columns: "1"
+      background:
+        color: "white"
   - block: collection
     content:
       title: Featured Publications
