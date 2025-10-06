@@ -42,8 +42,6 @@ sections:
       
     design:
       columns: "1"
-      background:
-        text_color_light: true
   - block: collection
     content:
       title: Featured Publications
