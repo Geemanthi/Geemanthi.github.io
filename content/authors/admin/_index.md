@@ -209,6 +209,5 @@ languages:
 #     summary: |
 #       Recognized for contributions to scaling laws in deep learning.
 ---
-<div style="text-align: center;">
+
 Lakshitha De Silva is a Lecturer in the Department of Mechanical Engineering at the University of Moratuwa, Sri Lanka. His expertise is in fluid dynamics, with strong experience in both computational and experimental methods. He teaches across Aeronautical Engineering and Mechanical Engineering Design, and takes great satisfaction in mentoring students on curricular and extracurricular projects. In addition to his academic role, he is an entrepreneur and consultant mechanical engineer, having worked with both Sri Lankan and international clients on research and development projects that deliver innovative solutions to fluid dynamics and broader engineering challenges. His long-term vision is to strengthen collaboration between academia and industry to develop sustainable, practical solutions that address the future challenges of humankind.
-</div>
