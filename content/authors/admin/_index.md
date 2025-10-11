@@ -10,7 +10,7 @@ first_name: Lakshitha
 last_name: De Silva
 
 # Pronouns (optional)
-pronouns: he/him
+# pronouns: he/him
 
 # Status emoji
 # status:
