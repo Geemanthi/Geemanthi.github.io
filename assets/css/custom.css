@@ -1,7 +1,7 @@
 .navbar .active,
 .navbar .is-active {
-  background-color: #e0f0ff; /* Highlight background */
-  color: #007bff;            /* Highlight text color */
+  background-color: #36ba97; /* Highlight background */
+  color: #14605c;            /* Highlight text color */
   font-weight: bold;
   border-radius: 4px;
 }
