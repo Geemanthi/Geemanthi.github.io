@@ -1,15 +1,9 @@
-.navbar .active,
-.navbar .is-active {
-  background-color: #e0f0ff; /* Highlight background */
-  color: #007bff;            /* Highlight text color */
-  font-weight: bold;
-  border-radius: 4px;
+.nav-link.active {
+  background-color: #e0f0ff;
+  color: #007bff;
 }
 
-@media (prefers-color-scheme: dark) {
-  .navbar .active,
-  .navbar .is-active {
-    background-color: #223a5e !important;
-    color: #e0f0ff !important;
-  }
+.dark .nav-link.active {
+  background-color: #223a5e;
+  color: #e0f0ff;
 }
