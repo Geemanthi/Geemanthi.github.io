@@ -1,9 +1,9 @@
 .nav-link.active {
   background-color: #e0f0ff;
-  color: #006aff;
+  color: #007bff;
 }
 
 .dark .nav-link.active {
-  background-color: #172a45;
+  background-color: #19213a;
   color: #93c5fd;
 }
