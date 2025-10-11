@@ -9,7 +9,7 @@
 @media (prefers-color-scheme: dark) {
   .navbar .active,
   .navbar .is-active {
-    background-color: #223a5e;
-    color: #e0f0ff;
+    background-color: #223a5e !important;
+    color: #e0f0ff !important;
   }
 }
