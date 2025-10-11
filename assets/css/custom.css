@@ -6,12 +6,7 @@
   border-radius: 4px;
 }
 
-/* Flip background and font color in dark mode */
 @media (prefers-color-scheme: dark) {
-  body {
-    background-color: #181a1b;
-    color: #f5f5f5;
-  }
   .navbar .active,
   .navbar .is-active {
     background-color: #223a5e;
