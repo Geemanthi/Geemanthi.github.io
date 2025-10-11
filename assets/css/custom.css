@@ -7,3 +7,10 @@
   background-color: #19213a;
   color: #93c5fd;
 }
+
+/* Zoom organization link on hover */
+.author-profile .organization a:hover,
+.author-profile .organizations a:hover {
+  transform: scale(1.2);
+  transition: transform 0.2s;
+}
