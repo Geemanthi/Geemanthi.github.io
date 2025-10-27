@@ -12,3 +12,9 @@
   transform: scale(1.2);
   transition: transform 0.2s;
 }
+
+.center-img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
