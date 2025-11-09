@@ -1,6 +1,6 @@
 ---
 title: '“Team SHARK Racing” Formula Student 2017/ 2018'
-date: 2023-10-26
+date: 2025-10-06
 links:
   - type: site
     url: https://www.ft.lk/Motor/TeamSHARK-of-University-of-Moratuwa-to-compete-in-Formula-Student-2018/55-658267
