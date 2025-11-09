@@ -22,10 +22,8 @@ The computational investigation was done using Ansys fluent computational fluid 
 <img src="Computational.png" alt="screen reader text" class="center-img" />
 <br/>
 This research project was supervised by Dr. Nalaka Samaraweera, Prof. Nirosh Jayaweera and Dr. Thusitha Sugathapala of the Department of Mechanical Engineering, University of Moratuwa. The developed experimental apparatus is now being used for both undergraduate practical demonstrations and postgraduate research projects. Findings from this research have been published in multiple conferences and journal publications.
-
 <br/>
 {{< youtube aM3Da_7CLic >}}
-
 <br/>
 {{< youtube quyzj6ysIJE >}}
 
