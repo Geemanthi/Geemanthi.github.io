@@ -21,7 +21,8 @@ image:
   focal_point: ''
   preview_only: false
 featured: true
-projects: []
+projects:
+- mphil
 ---
 > [!NOTE]
 > Click the *Cite* button above to import publication metadata.
