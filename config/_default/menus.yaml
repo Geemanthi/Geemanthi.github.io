@@ -25,9 +25,9 @@ main:
   - name: Lecturer
     url: lecturer/
     weight: 40
-  - name: Entrepreneurial Engineer
-    url: engineer/
-    weight: 50
+  # - name: Entrepreneurial Engineer
+  #   url: engineer/
+  #   weight: 50
   # - name: Courses
   #   url: courses/
   #   weight: 40
