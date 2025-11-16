@@ -15,6 +15,5 @@ publication: '*International Journal of Mechanical Engineering Education*'
 
 projects: []
 ---
-> [!NOTE]
-> This paper is under review.
+
 

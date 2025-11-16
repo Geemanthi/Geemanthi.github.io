@@ -17,7 +17,6 @@ publication: '*Advances in Mechanical Engineering*'
 
 projects: []
 ---
-> [!NOTE]
-> This paper is under review.
+
 
 
