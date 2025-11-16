@@ -1,6 +1,6 @@
 ---
-title: 'Design of a Pedestal Fan Blade with Enhanced Performance'
-date: 2025-12-20
+title: 'Development of a Morphing Wing-Based Small Unmanned Aerial Vehicle'
+date: 2024-09-15
 # tags:
 #   - Hugo
 #   - HugoBlox

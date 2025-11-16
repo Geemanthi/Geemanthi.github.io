@@ -1,6 +1,6 @@
 ---
 title: 'Development of Computational and Experimental Framework for Small-Scale Wind Turbines'
-date: 2025-10-26
+date: 2023-12-06
 # tags:
 #   - Hugo
 #   - HugoBlox

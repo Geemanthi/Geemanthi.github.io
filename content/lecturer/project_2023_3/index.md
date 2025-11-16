@@ -1,6 +1,6 @@
 ---
 title: 'Development of a Cyclo-Rotor UAV Scale Application'
-date: 2025-10-26
+date: 2023-10-16
 # tags:
 #   - Hugo
 #   - HugoBlox

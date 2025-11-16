@@ -1,6 +1,6 @@
 ---
 title: 'Design and Development of a Soft Robotic Morphing Wing for Fixed-wing UAVs'
-date: 2025-10-26
+date: 2023-12-11
 # tags:
 #   - Hugo
 #   - HugoBlox
