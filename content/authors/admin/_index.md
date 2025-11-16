@@ -92,24 +92,24 @@ work:
     company_name: IMC-AIC Campus, Colombo, Sri Lanka
     company_url: 'https://www.aicedu.lk/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: 2022-12-31
+    date_start: 2021
+    date_end: 2022
     summary: |
        Part-time permanent lecturer in mechanical engineering
   - position: Visiting Lecturer
     company_name: OREL Corporations (PVT) LTD, Colombo, Sri Lanka
     company_url: 'https://orel.com/'
     company_logo: ''
-    date_start: 2020-01-01
-    date_end: 2022-12-31
+    date_start: 2020
+    date_end: 2022
     summary: |
        Visiting Instructor and trainer for ANSYS software suite
   - position: Co-founder and Lead Engineer - ThermoFluids
     company_name: Dynamics LK (Pvt) Ltd, Colombo, Sri Lanka
     # company_url: 'https://orel.com/'
     company_logo: ''
-    date_start: 2020-01-01
-    date_end: 2024-12-31
+    date_start: 2020
+    date_end: 2024
     summary: |
        Research and development of mechanical engineering solutaions for local and international clients.
   - position: Trainee Engineer
@@ -210,4 +210,4 @@ languages:
 #       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Lakshitha De Silva is a Lecturer in the Department of Mechanical Engineering at the University of Moratuwa, Sri Lanka. His expertise is in fluid dynamics, with strong experience in both computational and experimental methods. He teaches across Aeronautical Engineering and Mechanical Engineering Design, and takes great satisfaction in mentoring students on curricular and extracurricular projects. In addition to his academic role, he is an entrepreneur and consultant mechanical engineer, having worked with both Sri Lankan and international clients on research and development projects that deliver innovative solutions to fluid dynamics and broader engineering challenges. His long-term vision is to strengthen collaboration between academia and industry to develop sustainable, practical solutions that address the future challenges of humankind.
+I am a Lecturer in the Department of Mechanical Engineering at the University of Moratuwa, Sri Lanka. My expertise is in fluid dynamics, with strong experience in both computational and experimental methods. I teach across Aeronautical Engineering and Mechanical Engineering Design, and take great satisfaction in mentoring students on curricular and extracurricular projects. In addition to my academic role, I am an entrepreneur and consultant mechanical engineer, having worked with both Sri Lankan and international clients on research and development projects that deliver innovative solutions to fluid dynamics and broader engineering challenges. My long-term vision is to strengthen collaboration between academia and industry to develop sustainable, practical solutions that address the future challenges of humankind.
