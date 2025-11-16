@@ -1,6 +1,6 @@
 ---
 title: 'Design of a Pedestal Fan Blade with Enhanced Performance'
-date: 2025-12-20
+date: 2023-12-20
 # tags:
 #   - Hugo
 #   - HugoBlox
