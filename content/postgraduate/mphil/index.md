@@ -1,6 +1,6 @@
 ---
 title: 'Investigation of the Aerodynamics of Bioinspired Flapping Wings'
-  
+date: 2024-12-16
 # tags:
 #   - Hugo
 #   - HugoBlox

@@ -1,6 +1,6 @@
 ---
 title: 'Design and development of a small passenger vehicle chassis with improved crash-worthiness and aerodynamic performance for small-scale manufacturing'
-  
+date: 2024-11-29
 # tags:
 #   - Hugo
 #   - HugoBlox
