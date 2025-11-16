@@ -92,7 +92,7 @@ work:
     company_name: IMC-AIC Campus, Colombo, Sri Lanka
     company_url: 'https://www.aicedu.lk/'
     company_logo: ''
-    date_start: 2021-06=-1
+    date_start: 2021-06-01
     date_end: 2022-07-01
     summary: |
        Part-time permanent lecturer in mechanical engineering
