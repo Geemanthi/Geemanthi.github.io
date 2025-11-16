@@ -78,7 +78,7 @@ work:
     company_logo: ''
     date_start: 2024-06-01
     date_end: ''
-    summary: |2-
+    summary: |
       Lecturing on Aircraft systems and maintenance, Aircraft avionics and human factors, Aerodynamics. Project Supervision of Glider and UAV design project (2nd and 3rd year students), Aircraft design project (3rd year students), Final year projects (4th year students)
   - position: Visiting Lecturer
     company_name: Faculty of Engineering, University of Sri Jayawardhanapura, Sri Lanka
