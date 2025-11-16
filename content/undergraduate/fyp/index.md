@@ -26,7 +26,7 @@ Following aerodynamic and crashworthiness optimization, the finalized chassis wa
 <br/><br/>
 <img src="Image3.png" alt="screen reader text" class="center-img" />
 <br/><br/>
-As future works, experimental evaluation of the chassis torsional rigidity was planned to be evaluated using industrial grade chassis straighning rig. Furthermore, as part of the electric car development project, this chassis was used in the first iteration of the experimental electric passenger vehicle. 
+As future works, experimental evaluation of the chassis torsional rigidity was planned to be evaluated using an industrial grade chassis straightening rig. Furthermore, as part of the electric car development project, this chassis was used in the first iteration of the experimental electric passenger vehicle. 
 <br/><br/>
 
 <!--more-->
