@@ -16,7 +16,7 @@ Extensive research has been conducted on morphing-wing structures, actuation str
 <br/><br/>
 The study focuses on small fixed-wing UAVs operating at low Reynolds numbers (below 500,000) through the design, numerical simulation, and experimental evaluation of a soft pneumatic actuator developed specifically for aerofoil morphing. The primary aim is to demonstrate the feasibility of soft-actuation technologies in achieving meaningful aerofoil deformation and to assess their influence on aerodynamic performance.
 
-<img src="image.png" alt="screen reader text" class="center-img" />
+<img src="1.jpg" alt="screen reader text" class="center-img" />
 
 
 <!--more-->
