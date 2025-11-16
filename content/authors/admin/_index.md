@@ -92,24 +92,24 @@ work:
     company_name: IMC-AIC Campus, Colombo, Sri Lanka
     company_url: 'https://www.aicedu.lk/'
     company_logo: ''
-    date_start: 2021-
-    date_end: 2022-
+    date_start: 2021-06=-1
+    date_end: 2022-07-01
     summary: |
        Part-time permanent lecturer in mechanical engineering
   - position: Visiting Lecturer
     company_name: OREL Corporations (PVT) LTD, Colombo, Sri Lanka
     company_url: 'https://orel.com/'
     company_logo: ''
-    date_start: 2020-
-    date_end: 2022-
+    date_start: 2020-04-01
+    date_end: 2022-08-01
     summary: |
        Visiting Instructor and trainer for ANSYS software suite
   - position: Co-founder and Lead Engineer - ThermoFluids
     company_name: Dynamics LK (Pvt) Ltd, Colombo, Sri Lanka
     # company_url: 'https://orel.com/'
     company_logo: ''
-    date_start: 2020-
-    date_end: 2024-
+    date_start: 2020-01-20
+    date_end: 2024-12-31
     summary: |
        Research and development of mechanical engineering solutaions for local and international clients.
   - position: Trainee Engineer
