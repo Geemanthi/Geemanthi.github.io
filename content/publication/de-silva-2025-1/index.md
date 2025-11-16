@@ -21,8 +21,7 @@ image:
   focal_point: ''
   preview_only: false
 featured: true
-projects:
-- ../postgraduate/mphil
+projects: []
 ---
 
 
