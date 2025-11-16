@@ -22,7 +22,7 @@ image:
   preview_only: false
 featured: true
 projects:
-- mphil
+- ../postgraduate/mphil
 ---
 
 
