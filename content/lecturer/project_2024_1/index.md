@@ -18,7 +18,7 @@ This project follows a CFD-based methodology for assessing the aerodynamic perfo
 
 <br/><br/>
 
-<img src="4.jpg" alt="screen reader text" class="center-img" />
+<img src="5.jpg" alt="screen reader text" class="center-img" />
 
 
 <!--more-->
