@@ -16,6 +16,7 @@ sections:
       filters:
         folders:
           - lecturer
+      count: 50
     design:
       view: article-grid
       fill_image: false
