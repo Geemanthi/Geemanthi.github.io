@@ -14,4 +14,11 @@ doi: 10.2139/ssrn.5593831
 links:
 - name: URL
   url: http://dx.doi.org/10.2139/ssrn.5593831
+
+image:
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ''
+  preview_only: false
+featured: true
+projects: []
 ---
